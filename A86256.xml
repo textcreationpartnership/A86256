@@ -1,0 +1,393 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect and most usefull table to compute the year of our Lord with the several years of the Kings reigns, beginning with Henry the eight, which is 150 years since, whereby the true date of any deed since that time may presently be found out with much facility, and undoubted certainty. Also, to know the county dayes for each county in England for this year, and which hereby may be known for ever, because they are and must be constantly kept that day month in each county, London onely excepted, as underneath appears.</title>
+            <author>W. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86256</idno>
+            <idno type="STC">Wing H158</idno>
+            <idno type="STC">Thomason 669.f.20[32]</idno>
+            <idno type="STC">ESTC R211821</idno>
+            <idno type="EEBO-CITATION">99870514</idno>
+            <idno type="PROQUEST">99870514</idno>
+            <idno type="VID">163449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect and most usefull table to compute the year of our Lord with the several years of the Kings reigns, beginning with Henry the eight, which is 150 years since, whereby the true date of any deed since that time may presently be found out with much facility, and undoubted certainty. Also, to know the county dayes for each county in England for this year, and which hereby may be known for ever, because they are and must be constantly kept that day month in each county, London onely excepted, as underneath appears.</title>
+                  <author>W. H.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the use of W.H. the author, and are to be sold by Master Michell in Westminster-hall, and by Tobias Jorden in Gloucester,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb. 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chronology, Historical --  Charts, diagrams, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  Kings and rulers --  Tables --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_dates">
+            <pb facs="tcp:163449:1" rendition="simple:additions"/>
+            <head>A perfect and moſt uſefull Table to compute the year of our Lord, with the ſeveral years of the Kings reigns,
+beginning with Henry the eight, which is 150 years ſince, whereby the true date of any Deed ſince
+that time may preſently be found out with much facility, and undoubted certainty.
+Alſo, to know the County dayes for each County in England for this year, and which hereby
+may be known for ever, becauſe they are and muſt be conſtantly kept that day month
+in each County, London onely excepted, as underneath appears.</head>
+            <div type="part">
+               <head>Henry the eight began his reign
+22 April 1509.</head>
+               <list>
+                  <item>1 Year till 25 <hi>March,</hi> was—1509 after 1510</item>
+                  <item>2 year till then was—1510 after 1511</item>
+                  <item>3 year till then was—1511 after 1512</item>
+                  <item>4 year till then was—1512 after 1513</item>
+                  <item>5 year till then was—1513 after 1514</item>
+                  <item>6 year till then was—1514 after 1515</item>
+                  <item>7 year till then was—1515 after 1516</item>
+                  <item>8 year till then was—1516 after 1517</item>
+                  <item>9 year till then was—1517 after 1518</item>
+                  <item>10 year till 25 <hi>March,</hi> was— 1518 after 1519</item>
+                  <item>11 year till then was—1519 after 1520</item>
+                  <item>12 year till then was—1520 after 1521</item>
+                  <item>13 year till then was—1521 after 1522</item>
+                  <item>14 year till then was—1522 after 1523</item>
+                  <item>15 year till then was—1523 after 1524</item>
+                  <item>16 year till then was—1524 after 1525</item>
+                  <item>17 year till then was—1525 after 1526</item>
+                  <item>18 year till then was—1526 after 1527</item>
+                  <item>19 year till then was—1527 after 1528</item>
+                  <item>20 year till 25 <hi>March,</hi> was—1528 after 1529</item>
+                  <item>21 year till then was—1529 after 1530</item>
+                  <item>22 year till then was—1530 after 1531</item>
+                  <item>23 year till then was—1531 after 1532</item>
+                  <item>24 year till then was—1532 after 1533</item>
+                  <item>25 year till then was—1533 after 1534</item>
+                  <item>26 year till then was—1534 after 1535</item>
+                  <item>27 year till then was—1535 after 1536</item>
+                  <item>28 year till then was—1536 after 1537</item>
+                  <item>29 year till then was—1537 after 1538</item>
+                  <item>30 year till 25 <hi>March,</hi> was—1538 after 1539</item>
+                  <item>31 year till then was—1539 after 1540</item>
+                  <item>32 year till then was—1540 after 1541</item>
+                  <item>33 year till then was—1541 after 1542</item>
+                  <item>34 year till then was—1542 after 1543</item>
+                  <item>35 year till then was—1543 after 1544</item>
+                  <item>36 year till then was—1544 after 1545</item>
+                  <item>37 year till then was—1545 after 1546</item>
+                  <item>So this year he dyed, <hi>viz. 28 Jan.</hi>
+1546. having reigned 37 yeares,
+9 months, and 6 dayes.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Edward the ſixt began his reign
+28 January, 1546.</head>
+               <list>
+                  <item>1 tear tukk 25 <hi>March,</hi> was—1546 after 1547</item>
+                  <item>2 year till then was—1547 after 1548</item>
+                  <item>3 year till then was—1548 after 1549</item>
+                  <item>4 year till then was—1549 after 1550</item>
+                  <item>5 year till then was—1550 after 1551</item>
+                  <item>6 year till then was—1551 after 1552</item>
+                  <item>7 year till then was—1552 after 1553</item>
+                  <item>So this year he dyed, <hi>viz. 6 July,</hi>
+1553. having reigned 6 yeares,
+5 months, and 19 dayes.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Queen Mary began her reign,
+6 July, 1553.</head>
+               <list>
+                  <item>1 year till 25 <hi>March,</hi> was—1553 after 1554</item>
+                  <item>2 year till then was—1554 after 1555</item>
+                  <item>3 year till then was—1555 after 1556</item>
+                  <item>4 year till then was—1556 after 1557</item>
+                  <item>5 year till 25 <hi>March,</hi> was—1557 after 1558</item>
+                  <item>So ſhe dyed this year, <hi>viz. 17 Nov.</hi>
+1558. having reigned 5 yeares,
+4 months, and 22 dayes.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Queen Elizabeth began her reign,
+17 November, 1558.</head>
+               <list>
+                  <item>1 year till 25 <hi>March,</hi> was—1558 after 1559</item>
+                  <item>2 year till then was—1559 after 1560</item>
+                  <item>3 year till then was—1560 after 1561</item>
+                  <item>4 year till then was—1561 after 1562</item>
+                  <item>5 year till then was—1562 after 1563</item>
+                  <item>6 year till then was—1563 after 1564</item>
+                  <item>7 year till then was—1564 after 1565</item>
+                  <item>8 year till then was—1565 after 1566</item>
+                  <item>9 year till then was—1566 after 1567</item>
+                  <item>10 year till 25 <hi>March,</hi> was—1567 after 1568</item>
+                  <item>11 year till then was—1568 after 1569</item>
+                  <item>12 year till then was—1569 after 1570</item>
+                  <item>13 year till then was—1570 after 1571</item>
+                  <item>14 year till then was—1571 after 1572</item>
+                  <item>15 year till then was—1572 after 1573</item>
+                  <item>16 year till then was—1573 after 1574</item>
+                  <item>17 year till then was—1574 after 1575</item>
+                  <item>18 year till then was—1575 after 1576</item>
+                  <item>19 year till then was—1576 after 1577</item>
+                  <item>20 year till then was—1577 after 1578</item>
+                  <item>21 year till then was—1578 after 1579</item>
+                  <item>22 year till then was—1579 after 1580</item>
+                  <item>23 year till then was—1580 after 1581</item>
+                  <item>24 year till then was—1581 after 1582</item>
+                  <item>25 year till then was—1582 after 1583</item>
+                  <item>26 year till then was—1583 after 1584</item>
+                  <item>27 year till then was—1584 after 1585</item>
+                  <item>28 year till then was—1585 after 1586</item>
+                  <item>29 year till then was—1586 after 1587</item>
+                  <item>30 year till then was—1587 after 1588</item>
+                  <item>31 year till then was—1588 after 1589</item>
+                  <item>32 year till then was—1589 after 1590</item>
+                  <item>33 year till then was—1590 after 1591</item>
+                  <item>34 year till then was—1591 after 1592</item>
+                  <item>35 year till then was—1592 after 1593</item>
+                  <item>36 year till then was—1593 after 1594</item>
+                  <item>37 year till then was—1594 after 1595</item>
+                  <item>38 year till then was—1595 after 1596</item>
+                  <item>39 year till then was—1596 after 1597</item>
+                  <item>40 year till then was—1597 after 1598</item>
+                  <item>41 year till then was—1598 after 1599</item>
+                  <item>42 year till then was—1599 after 1600</item>
+                  <item>43 year till then was—1600 after 1601</item>
+                  <item>44 year till then was—1601 after 1602</item>
+                  <item>45 year till 25 <hi>March,</hi> was— 1602 and then,
+So ſhe reigned 44 years, 4 months, ſhe dyed.
+and 15 dayes.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Upon old Thomas Parr's Tomb
+at Weſtminſter.</head>
+               <p>He was born in <hi>Anno Domini</hi> 1483.
+andn lived in the time of 10 ſeveral
+Princes, <hi>viz. Edw.</hi> the 4. <hi>Edw.</hi>
+the 5. <hi>Ric.</hi> the 3. <hi>Hen. 7. Hen.</hi> 8.
+<hi>Edw.</hi> 6: Queen <hi>Mary,</hi> Wueen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi>
+King <hi>James,</hi> and King
+<hi>Charles.</hi>
+               </p>
+               <p>He was 152 years of age when he
+dyed, which was 15 <hi>Novemb.</hi>
+1635.</p>
+            </div>
+            <div type="part">
+               <head>King James began his reign,
+24 March, 1602.</head>
+               <list>
+                  <item>1 year 25 <hi>March</hi> was—1603</item>
+                  <item>2 year 25 <hi>March</hi> was—1604</item>
+                  <item>3 year 25 <hi>March</hi> was—1605</item>
+                  <item>4 year 25 <hi>March</hi> was—1606</item>
+                  <item>5 year 25 <hi>March</hi> was—1607</item>
+                  <item>6 year 25 <hi>March</hi> was—1608</item>
+                  <item>7 year 25 <hi>March</hi> was—1609</item>
+                  <item>8 year 25 <hi>March</hi> was—1610</item>
+                  <item>9 year 25 <hi>March</hi> was—1611</item>
+                  <item>10 year 25 <hi>March</hi> was—1612</item>
+                  <item>11 year 25 <hi>March</hi> was—1613</item>
+                  <item>12 year 25 <hi>March</hi> was—1614</item>
+                  <item>13 year 25 <hi>March</hi> was—1615</item>
+                  <item>14 year 25 <hi>March</hi> was—1616</item>
+                  <item>15 year 25 <hi>March</hi> was—1617</item>
+                  <item>16 year 25 <hi>March</hi> was—1618</item>
+                  <item>17 year 25 <hi>March</hi> was—1619</item>
+                  <item>18 year 25 <hi>March</hi> was—1620</item>
+                  <item>19 year 25 <hi>March</hi> was—1621</item>
+                  <item>20 year 25 <hi>March</hi> was—1622</item>
+                  <item>21 year 25 <hi>March</hi> was—1623</item>
+                  <item>22 year 25 <hi>March</hi> was—1624</item>
+                  <item>23 year 25 <hi>March</hi> was—1625</item>
+                  <item>This year he dyed, <hi>viz. 27 March,</hi> 1625. ſo
+he wrote 23 years, but onely two dayes. He
+reigned 22 years, and 2 dayes.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>King Charles began his reign,
+27 March, 1625.</head>
+               <list>
+                  <item>1 year 27 <hi>March</hi> was—1625</item>
+                  <item>2 year 27 <hi>March</hi> was—1626</item>
+                  <item>3 year 27 <hi>March</hi> was—1627</item>
+                  <item>4 year 27 <hi>March</hi> was—1628</item>
+                  <item>5 year 27 <hi>March</hi> was—1629</item>
+                  <item>6 year 27 <hi>March</hi> was—1630</item>
+                  <item>7 year 27 <hi>March</hi> was—1631</item>
+                  <item>8 year 27 <hi>March</hi> was—1632</item>
+                  <item>9 year 27 <hi>March</hi> was—1633</item>
+                  <item>10 year 27 <hi>March</hi> was—1634</item>
+                  <item>11 year 27 <hi>March</hi> was—1635</item>
+                  <item>12 year 27 <hi>March</hi> was—1636</item>
+                  <item>13 year 27 <hi>March</hi> was—1637</item>
+                  <item>14 year 27 <hi>March</hi> was—1638</item>
+                  <item>15 year 27 <hi>March</hi> was—1639</item>
+                  <item>16 year 27 <hi>March</hi> was—1640</item>
+                  <item>17 year 27 <hi>March</hi> was—1641</item>
+                  <item>18 year 27 <hi>March</hi> was—1642</item>
+                  <item>19 year 27 <hi>March</hi> was—1643</item>
+                  <item>20 year 27 <hi>March</hi> was—1644</item>
+                  <item>21 year 27 <hi>March</hi> was—1645</item>
+                  <item>22 year 27 <hi>March</hi> was—1646</item>
+                  <item>23 year 27 <hi>March</hi> was—1647</item>
+                  <item>24 year 27 <hi>March</hi> was—1648</item>
+                  <item>In which year, <hi>viz.</hi> the 30 day of <hi>January,</hi>
+1648. he was beheaded at <hi>Whitehall</hi> Gate, ha<g ref="char:EOLhyphen"/>ving
+reigned 23 years, 10 months, and 3 dayes.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The ſeveral County-dayes for each
+Shire, in England, for this
+preſent year 1656.</head>
+               <list>
+                  <item>Bedford, Monday 14 April.</item>
+                  <item>Berks, Monday 21 April.</item>
+                  <item>Briſtol, Monday 7 April.</item>
+                  <item>Buckingham, Wedneſday 9 April.</item>
+                  <item>Cambridge, Thurſday 3 April.</item>
+                  <item>Cumberland, Tueſday 8 April.</item>
+                  <item>Cornwall, Monday the laſt of March.</item>
+                  <item>Derby, Thuſday 3 April.</item>
+                  <item>Devon, Tueſday 15 April.</item>
+                  <item>Dorſet, Monday the laſt of March.</item>
+                  <item>Durham, Monday 14 April.</item>
+                  <item>Ely, Wedneſday 26 March.</item>
+                  <item>Eſſex, Tueſday 25 March.</item>
+                  <item>Glouceſter, Wedneſday 26 March.</item>
+                  <item>Hereford, Monday 21 April.</item>
+                  <item>Hertford, Wedneſday 17 April.</item>
+                  <item>Kent, Monday 21 April.</item>
+                  <item>Leiceſter; Thurſday 27 March.</item>
+                  <item>Lincoln, Monday 7 April.</item>
+                  <item>
+                     <hi>London, Monday 23 April;</hi> but then
+they keep it twice a month, being their
+Huſtings.</item>
+                  <item>Middleſex, Thurſday 10 April.</item>
+                  <item>Monmouth, Thurſday 10 April.</item>
+                  <item>Northampton, Thurſday 27 March.</item>
+                  <item>Nottingham, Munday the laſt of March.</item>
+                  <item>Norfolk, Monday 7 April.</item>
+                  <item>Northumberland, Monday 14 April.</item>
+                  <item>Oxford, Wedneſday 26 Marck.</item>
+                  <item>Rutland, Thurſday 27 March.</item>
+                  <item>Salop. Thurſday 27 March.</item>
+                  <item>Stafford, Thurſday 10 April.</item>
+                  <item>Sommerſet, Monday 7 April.</item>
+                  <item>Southampton, MOnday 21 April.</item>
+                  <item>Suffolk, Monday 14 April.</item>
+                  <item>Surrey, Wedneſday 9 April.</item>
+                  <item>Suſſex, Thurſday 17 April.</item>
+                  <item>Warwick, Saturday 5 April.</item>
+                  <item>Worceſter, Wedneſday 16 April.</item>
+                  <item>Wilts, Tueſday 1 April.</item>
+                  <item>Weſtmerland, Thurſday 27 March.</item>
+                  <item>York, Saturday 5 April.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON,
+Printed for the uſe of <hi>W. H.</hi> the Au<g ref="char:EOLhyphen"/>thor,
+and are to be ſold by Maſter
+<hi>Michell</hi> in <hi>Weſtminſter-hall,</hi>
+and by <hi>Tobias Jorden</hi> in
+<hi>Glouceſter,</hi> 1656.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
